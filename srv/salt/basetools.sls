@@ -1,0 +1,2 @@
+bind-tools:
+  pkg.installed: []
